@@ -15,6 +15,7 @@ openapi-codec
 pip                 
 pkg-resources       
 pytz                
+PyYAML              
 requests            
 setuptools          
 simplejson          
